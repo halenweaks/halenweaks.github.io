@@ -27,3 +27,11 @@ h1{
   margin: auto;
   box-shadow: 0 2px 0 2px;
 }
+h2{
+  font-family: 'Pangolin',monospace;
+}
+ul{
+  padding: 0 9rem 0 2 rem;
+  list-style-type: square;
+  color: tomato;
+}
