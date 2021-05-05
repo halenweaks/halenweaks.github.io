@@ -23,5 +23,7 @@ h1{
   border-radius:20px;
   width: 300px;
   float: center;
+  display: block;
+  margin: auto;
   box-shadow: 0 2px 0 2px;
 }
