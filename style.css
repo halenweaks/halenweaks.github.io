@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital@0;1&family=Architects+Daughter&family=Atomic+Age&family=Bangers&family=Pangolin&display=swap');
+
+*{
+ font-family: 'Architects Daughter',monospace;
+ padding: 0.1rem;
+ background-color: #e8d8b4;
+}
+h1{
+  font-family: 'Bangers',monospace;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: 0.3rem;
+  color: #0c1042;
+}
